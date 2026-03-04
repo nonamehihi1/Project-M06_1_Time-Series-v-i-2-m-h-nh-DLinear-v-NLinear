@@ -12,7 +12,8 @@ Trong project này sẽ sử dụng chiến lược dự báo trực tiếp
 
 I. Mô hình LTSF-Linear: Linear
 - Cơ chế: Dùng 1 lớp biến đổi tuyến tính để ánh xạ trực tiếp từ quá khứ vào tương lai: y = Wx + b
-- Cách hoạt động: <img width="715" height="254" alt="{94036B2E-536A-4E43-B59F-E2C20F40276E}" src="https://github.com/user-attachments/assets/03199c43-2977-470e-9af0-da0484866cc6" />
+- Cách hoạt động:
+- <img width="715" height="254" alt="{94036B2E-536A-4E43-B59F-E2C20F40276E}" src="https://github.com/user-attachments/assets/03199c43-2977-470e-9af0-da0484866cc6" />
 - Nhược điểm là không phù hợp với những dữ liệu có phi tuyến mạnh
 
 II. Mô hình LTSF-Linear: NLinear
