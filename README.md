@@ -1,4 +1,4 @@
-<img width="134" height="30" alt="{D04ED0D2-D2B4-4A93-BB3B-4FB072D74A51}" src="https://github.com/user-attachments/assets/8fda39e4-8fa0-451a-a475-c90da33cac3f" /># Project-M06_1_Time-Series-DLinear-v-NLinear
+# Project-M06_1_Time-Series-DLinear-v-NLinear
 Dự đoán chính xác dạng time series với 2 mô hình
 
 Dự báo chuỗi thời gian có nhiều thử thách không chỉ nằm ở việc đoán giá của ngày mai, mà là việc 'nhìn xa'. Ngoài ra dữ liệu cực kỳ nhiễu, phi tuyến và không có tính dừng. Khi nghe đến vấn đề phụ thuộc dài hạn, ta thường nghĩ đến các lớp mô hình tranformer, nhưng độ phức tạp của thuật toán sẽ trở nên không khả thi trong thời gian thật. Do đó ta sẽ sử dụng hướng đi LTSF-Linear
